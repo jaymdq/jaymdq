@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Brian Caimmi</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hi 🤙, I'm Brian Caimmi</h1>
+<h3 align="center">A passionate Senior Systems Engineer from Argentina 🇦🇷 </h3>
+
+<p align="left">
+As a Senior Systems Engineer and Technical Lead, I've navigated complex challenges and demanding technical requirements with agility and innovation. Grounded in the agile Scrum methodology, I've effectively led cross-functional teams through project lifecycles, ensuring successful outcomes from inception to execution.
+
+My leadership role has encompassed a broad spectrum of responsibilities, from gathering client requirements with precision to orchestrating seamless collaboration with UI/UX experts and project management. By conducting demos and gathering iterative feedback, I've refined our solutions iteratively, ensuring they meet evolving industry needs.
+
+In software development, I've led the creation of cutting-edge web applications using a modern tech stack including React, Node.js (alongside working with REST and GraphQL APIs), SQL, and NoSQL databases. Upholding high-quality standards and best practices, I've architected robust infrastructure on AWS, delivering scalable and resilient solutions.
+
+Beyond technical duties, I've embraced mentorship and career development, fostering a culture of continuous learning and improvement within my team. Engaging in recruitment processes, I've conducted Technical Interviews to bring aboard exceptionally talented individuals, further enhancing our collective capacity for innovation and success.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaymdq&label=Profile%20views&color=0e75b6&style=flat" alt="jaymdq" /> </p>
 
